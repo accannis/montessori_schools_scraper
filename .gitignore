@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Project specific
+schools.csv  # Excluding the data file as it can be regenerated
